@@ -19,7 +19,7 @@ Installation instructions
 
 2. cd opg-backoffice-image.
    vagrant plugin install vagrant-gatling-rsync
-   vagrant plugin install vbguest
+   vagrant plugin install vagrant-vbguest
 
 3. get the box file which is an image of the environment and run
    vagrant box add opgbackofficeimage opgbackofficeimage.box
